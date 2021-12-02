@@ -1,0 +1,7 @@
+ERAIN License
+
+Copyright (C) 2021 Erain Canada, Inc. All rights reserved.
+
+Please make note of the following:
+
+Projects that you currently have set to “Private” will continue to hide the project code from anyone who is not a project member.
